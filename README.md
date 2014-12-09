@@ -10,34 +10,22 @@ We will input multiple lines. The first line is the number of rectangles, then e
 
 
 Input:
-
 3
-
 1,3,2
-
 2,4,4
-
 6,7,5
 
+Output: 25
 
-Output:
-
-25
 
 
 Input:
-
 3
-
 1,4,1
-
 2,3,3
-
 5,6,2
 
-Output:
-
-16
+Output: 16
 
 ![instructions](https://github.com/staubhp/climber-problem/blob/master/Climber%20Problem.png "Instructions")
 
