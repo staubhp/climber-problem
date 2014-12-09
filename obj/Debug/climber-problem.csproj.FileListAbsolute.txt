@@ -1,0 +1,6 @@
+C:\Users\pstaub\Documents\GitHub\climber-problem\bin\Debug\climber-problem.exe.config
+C:\Users\pstaub\Documents\GitHub\climber-problem\obj\Debug\climber-problem.csprojResolveAssemblyReference.cache
+C:\Users\pstaub\Documents\GitHub\climber-problem\bin\Debug\climber-problem.exe
+C:\Users\pstaub\Documents\GitHub\climber-problem\bin\Debug\climber-problem.pdb
+C:\Users\pstaub\Documents\GitHub\climber-problem\obj\Debug\climber-problem.exe
+C:\Users\pstaub\Documents\GitHub\climber-problem\obj\Debug\climber-problem.pdb
