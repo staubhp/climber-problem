@@ -8,21 +8,27 @@ The question is, if the climber starts from place A, climbs up when a mountain i
 
 We will input multiple lines. The first line the number of rectangles, then each line is a comma-separated 3-tuple to indicate the position and height of the rectangle.
 
+<br />
 Input:
 3
 1,3,2
 2,4,4
 6,7,5
 
+<br />
 Output:
 25
 
+<br />
 Input:
 3
 1,4,1
 2,3,3
 5,6,2
 
+<br />
 Output:
 16
+
+![instructions](https://github.com/staubhp/climber-problem/blob/master/Climber%20Problem.png "Instructions")
 
